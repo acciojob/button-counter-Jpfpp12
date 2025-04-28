@@ -13,7 +13,7 @@ const App = () => {
       {/* Do not remove the main div */}
       <h1>Button Click Counter</h1>
       <p>Button clicked {count} times</p>
-      <button onClick={handleClick}>Click Me</button>
+      <button onClick={handleClick}>Click me</button>
     </div>
   );
 }
